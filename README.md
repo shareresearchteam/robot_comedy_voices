@@ -4,11 +4,11 @@ This repository contains the three robot comedy video stimuli used in the 2024 I
 
 # Videos
 
-The video stimulus showcasing the "Fred" robot voice is called 
+The video stimulus showcasing the "Fred" robot voice is called "Fred_Set.mp4"
 
-The video stimulus showcasing the "Joey" robot voice is called 
+The video stimulus showcasing the "Joey" robot voice is called "Joey_Set.mp4"
 
-The video stimulus showcasing the "Matthew" robot voice is called 
+The video stimulus showcasing the "Matthew" robot voice is called "Matthew_Set.mp4"
 
 # License
 
